@@ -1,0 +1,7 @@
+/.gradle/
+/build/
+/bugrepro.iml
+/bugrepro.ipr
+/bugrepro.iws
+/out/
+/output/
